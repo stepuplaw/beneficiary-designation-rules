@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Beneficiary Designation and Trust Account Rules at US Financial Institutions (2026)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - family-names: Klagge
+    given-names: Kevin D.
+    affiliation: "Klagge Law, PLLC (StepUpLaw)"
+    orcid: "https://orcid.org/0009-0002-1385-8498"
+version: "2026.09.25"
+date-released: "2026-09-25"
+license: CC-BY-4.0
+url: "https://stepuplaw.com/data/beneficiary-designation-rules/"
+repository-code: "https://github.com/stepuplaw/beneficiary-designation-rules"
+keywords:
+  - beneficiary designation
+  - per stirpes
+  - trust as beneficiary
+  - payable on death
+  - transfer on death

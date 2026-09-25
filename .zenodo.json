@@ -1,0 +1,40 @@
+{
+  "title": "Beneficiary Designation and Trust Account Rules at US Financial Institutions (2026)",
+  "upload_type": "dataset",
+  "description": "Beneficiary designation and trust account rules at 247 US financial institutions: brokerages and IRA custodians, the 100 largest banks, 401(k), 403(b) and 457 recordkeepers, life and annuity insurers, the TSP, the Florida Retirement System and large state pensions, credit unions, HSA custodians, and every Florida-headquartered bank and the 40 largest Florida credit unions. 365 institution and account-type listings carry 3,133 rules (whether a trust can be named, how the trust must be named, per stirpes, banned wording, spousal consent, the default beneficiary, what happens when a beneficiary dies first, how to submit), and 172 listings carry 620 rules for opening an account in a trust's name. Every value is backed by a verbatim quote from the institution's own form or agreement, with the URL, form number and revision date. Read September 24 and 25, 2026.",
+  "creators": [
+    {
+      "name": "Klagge, Kevin D.",
+      "affiliation": "Klagge Law, PLLC (StepUpLaw)",
+      "orcid": "0009-0002-1385-8498"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "2026.09.25",
+  "keywords": [
+    "beneficiary designation",
+    "per stirpes",
+    "trust as beneficiary",
+    "payable on death",
+    "transfer on death",
+    "IRA",
+    "401(k)",
+    "certification of trust",
+    "estate planning",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://stepuplaw.com/data/beneficiary-designation-rules/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/stepuplaw/beneficiary-designation-rules",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
