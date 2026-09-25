@@ -11,7 +11,6 @@ Live pages: https://stepuplaw.com/data/beneficiary-designation-rules/ and https:
 | `data/beneficiary_rules.csv`, `data/beneficiary_rules.json` | One row per institution and account group, each rule with value, detail, verbatim quote, source URL, form number and revision date |
 | `data/trust_accounts.csv`, `data/trust_accounts.json` | Rules for opening or retitling an account in a trust's name |
 | `data/schema.json` | Column definitions |
-| `tools/publish_build.py` | Builds the tables from the collected records |
 
 "Not stated" means the institution's public documents are silent on the point, which is different from a refusal. Institutions' own documents are linked, not redistributed. This is reference information, not legal advice.
 
