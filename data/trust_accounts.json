@@ -3,8 +3,8 @@
  "publisher": "StepUp Law (Klagge Law, PLLC)",
  "license": "CC BY 4.0",
  "retrieved_from": "2026-09-24",
- "retrieved_to": "2026-09-25",
- "institutions_checked": 379,
+ "retrieved_to": "2026-09-26",
+ "institutions_checked": 546,
  "rows": [
   {
    "inst_id": "ins-allianz-life",
@@ -2061,6 +2061,30 @@
    }
   },
   {
+   "inst_id": "bank2-banner-bank",
+   "institution": "Banner Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "stated in the Business Deposit Account Agreement; the consumer agreement has no trust-account clause; a separate agreement may govern",
+     "quote": "When your account is set up as an escrow account, trust account, fiduciary account, or custodial account, it is your sole responsibility to determine the legal effects of opening and maintaining an account of this nature.",
+     "account_type": "Deposit account owned by a trust",
+     "page": "4",
+     "source_url": "https://www.bannerbank.com/-/media/project/banner-bank/dotcom/pdfs/business-disclosure_ada.pdf?rev=558cdff7d58b436a8dbd33e2271c2b32&sc_lang=en&hash=A3B7E4FE22ADA0C36F8AF80165C53DCE",
+     "form_number": "",
+     "revision_date": "2025-05",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flbank-bayfirst-national-bank",
    "institution": "BayFirst National Bank",
    "segment": "bank",
@@ -2468,6 +2492,54 @@
    }
   },
   {
+   "inst_id": "bank2-centier-bank",
+   "institution": "Centier Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Fiduciary (trustee) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trustees under a written trust agreement may open fiduciary accounts; the bank does not monitor the trust",
+     "quote": "This account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Fiduciary (trustee) deposit accounts",
+     "page": "10",
+     "source_url": "https://www.centier.com/docs/default-source/resources/consumer-account-agreement.pdf?sfvrsn=5c8eb1f6_50",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-central-pacific-bank",
+   "institution": "Central Pacific Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Formal Trust Account (deposit account owned by a trust)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trustees hold the account under a written trust agreement; the bank acts only as custodian",
+     "quote": "A Formal Trust Account is an account held by one or more trustees for the benefit of one or more beneficiaries according to a written trust agreement.",
+     "account_type": "Formal Trust Account (deposit account owned by a trust)",
+     "page": "3",
+     "source_url": "https://www.cpb.bank/deposit-account-agreement-disclosure",
+     "form_number": "",
+     "revision_date": "2024-12",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-charles-schwab-bank",
    "institution": "Charles Schwab Bank, SSB",
    "segment": "bank",
@@ -2757,6 +2829,17 @@
    }
   },
   {
+   "inst_id": "flcu-city-county-employees",
+   "institution": "City-County Employees Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Trust-owned share accounts"
+   ],
+   "florida": true,
+   "fields": {}
+  },
+  {
    "inst_id": "bank-columbia-bank",
    "institution": "Columbia Bank",
    "segment": "bank",
@@ -2777,6 +2860,42 @@
      "revision_date": "",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-columbia-bank",
+   "institution": "Columbia Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Formal trust account (deposit account held by trustees)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "formal trust accounts held by the trustees; the bank acts only as custodian and does not inquire into the trustees' powers",
+     "quote": "A formal Trust Account is an Account held by one or more trustees for the benefit of one or more beneficiaries according to a written trust agreement.",
+     "account_type": "Formal trust account (deposit account held by trustees)",
+     "page": "10",
+     "source_url": "http://www.columbiabankonline.com:80/home/fiFiles/static/documents/disclosure-depositaccountagreement.pdf",
+     "form_number": "",
+     "revision_date": "2014-08-05",
+     "wayback_capture": "2016-08-28",
+     "retrieved": "2026-09-26"
+    },
+    "full_instrument_required": {
+     "value": "yes",
+     "detail": "a copy of the trust agreement on the bank's request (not stated as required at opening)",
+     "quote": "Upon our request, the trustee(s) will supply to us a copy of any trust agreement covering the Account.",
+     "account_type": "Formal trust account (deposit account held by trustees)",
+     "page": "10",
+     "source_url": "http://www.columbiabankonline.com:80/home/fiFiles/static/documents/disclosure-depositaccountagreement.pdf",
+     "form_number": "",
+     "revision_date": "2014-08-05",
+     "wayback_capture": "2016-08-28",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -3057,6 +3176,42 @@
    }
   },
   {
+   "inst_id": "bank2-dollar-bank-federal-savings-bank",
+   "institution": "Dollar Bank, Federal Savings Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account held by a trustee or other fiduciary"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "fiduciary accounts designated on the Signature Card; trust agreements are among the documents the bank may review",
+     "quote": "Any individual(s) acting as an agent, guardian, personal representative, attorney-in-fact, custodian or some other fiduciary capacity (individually and collectively, an \"Agent\") must be designated by the Bank as such on the Signature Card.",
+     "account_type": "Deposit account held by a trustee or other fiduciary",
+     "page": "web page",
+     "source_url": "https://www.dollar.bank/Company/Legal/Deposit-Agreement",
+     "form_number": "",
+     "revision_date": "2010-09-15",
+     "wayback_capture": "2019-08-18",
+     "retrieved": "2026-09-26"
+    },
+    "trustee_change": {
+     "value": "yes",
+     "detail": "written notice of termination of the fiduciary's authority",
+     "quote": "The Bank is authorized to follow the directions of your Agent regarding your account until the Bank receives written notice that the agency has been terminated and it has had a reasonable opportunity to act upon the notice.",
+     "account_type": "Deposit account held by a trustee or other fiduciary",
+     "page": "web page",
+     "source_url": "https://www.dollar.bank/Company/Legal/Deposit-Agreement",
+     "form_number": "",
+     "revision_date": "2010-09-15",
+     "wayback_capture": "2019-08-18",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-east-west-bank",
    "institution": "East West Bank",
    "segment": "bank",
@@ -3101,6 +3256,30 @@
      "revision_date": "2024-06-01",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-ecu",
+   "institution": "ECU Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Trust-owned share accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trust qualified for membership may own an individual account; no opening or documentation rules stated",
+     "quote": "An individual account is an account owned by one (1) member (individual, corporation, partnership, trust or other organization) qualified for credit union membership.",
+     "account_type": "Trust-owned share accounts",
+     "page": "1",
+     "source_url": "https://www.ecucreditunion.com/uploads/5/7/5/4/5754329/membership_and_account_agreement.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2021-03-01",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -3345,6 +3524,17 @@
    }
   },
   {
+   "inst_id": "flcu-ficare",
+   "institution": "FiCare Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Trust-owned share accounts"
+   ],
+   "florida": true,
+   "fields": {}
+  },
+  {
    "inst_id": "bank-fifth-third-bank",
    "institution": "Fifth Third Bank, National Association",
    "segment": "bank",
@@ -3377,6 +3567,66 @@
      "revision_date": "",
      "wayback_capture": "2021-09-21",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-first-choice",
+   "institution": "First Choice Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trust-owned accounts permitted case by case; the credit union does not administer trust accounts",
+     "quote": "A single owner Account is an Account owned by one member including any individual, corporation, partnership, trust or other organization qualified for Credit Union membership. ... The Credit Union may, at its complete discretion, permit accounts to be owned by trusts on a case-by-case basis.",
+     "account_type": "Deposit account owned by a trust",
+     "page": "2",
+     "source_url": "https://www.firstchoicecu.org/wp-content/uploads/2026/08/Membership-Agreement-08-27-2026.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-first-commonwealth-bank",
+   "institution": "First Commonwealth Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Fiduciary (trust) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trustee may hold an account under a written trust agreement; the bank acts only as custodian of the trust funds",
+     "quote": "Fiduciary or Agency Ownership: when an Account is held by an individual who acts as an attorney-in-fact, agent, guardian, personal representative, trustee, custodian or some other fiduciary capacity for the benefit of one or more beneficiaries under a written Agreement.",
+     "account_type": "Fiduciary (trust) deposit accounts",
+     "page": "12",
+     "source_url": "https://www.fcbanking.com/media/qufptg34/fcb-deposit-account-agreement_070125.pdf",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "2026-02-10",
+     "retrieved": "2026-09-26"
+    },
+    "grantor_death": {
+     "value": "yes",
+     "detail": "CD early withdrawal penalties are waived on the death of the grantor of a revocable living trust; no documentation requirement stated",
+     "quote": "We will waive early withdrawal penalties in these circumstances ... Death of a CD owner or a grantor of a revocable family/living trust",
+     "account_type": "Fiduciary (trust) deposit accounts",
+     "page": "11",
+     "source_url": "https://www.fcbanking.com/media/qufptg34/fcb-deposit-account-agreement_070125.pdf",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "2026-02-10",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -3501,6 +3751,30 @@
    }
   },
   {
+   "inst_id": "bank2-firstbank",
+   "institution": "FirstBank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account opened by a trustee under a written trust agreement"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "fiduciary account opened by the trustee(s); the bank does not monitor or enforce the trust terms",
+     "quote": "This account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Deposit account opened by a trustee under a written trust agreement",
+     "page": "3",
+     "source_url": "http://www.firstbankonline.com/wp-content/uploads/2013/12/FirstBank-AccountAgreement-TermsConditions.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2014-10-20",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-florida",
    "institution": "Florida Credit Union",
    "segment": "credit_union",
@@ -3525,6 +3799,30 @@
    }
   },
   {
+   "inst_id": "flcu-florida-west-coast",
+   "institution": "Florida West Coast Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust (fiduciary account)"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trustee under a written trust agreement may open and maintain an account; the credit union does not act as trustee or monitor or enforce the trust terms",
+     "quote": "This account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Deposit account owned by a trust (fiduciary account)",
+     "page": "8",
+     "source_url": "https://www.fwccu.com/files/fwccu/1/file/Disclosures/Truth-in-Savings-07-01-2025-002.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-floridacentral",
    "institution": "FloridaCentral Credit Union",
    "segment": "credit_union",
@@ -3545,6 +3843,30 @@
      "revision_date": "2025-07",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-forbright-bank",
+   "institution": "Forbright Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust (fiduciary account)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trustee under a written trust agreement may open and maintain an account; the bank does not act as trustee or monitor or enforce the trust terms (2024 consumer terms)",
+     "quote": "This account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Deposit account owned by a trust (fiduciary account)",
+     "page": "6",
+     "source_url": "https://www.forbrightbank.com/wp-content/uploads/2024/11/Final-Forbright-Consumer-Terms-and-Conditions.pdf",
+     "form_number": "EMDAIB35",
+     "revision_date": "2024-08",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -3873,6 +4195,54 @@
    }
   },
   {
+   "inst_id": "bank2-hanmi-bank",
+   "institution": "Hanmi Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trust accounts are among the fiduciary accounts the bank opens; no separate trust account terms or forms are saved",
+     "quote": "If you open or manage an estate account, trust account, guardianship or conservatorship account, or other similar type of account, we reserve the right to require any documents we reasonably request",
+     "account_type": "Deposit account owned by a trust",
+     "page": "15",
+     "source_url": "https://www.hanmi.com/deposit-account-agreement",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-happen-bank",
+   "institution": "Happen Bank, National Association",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "fiduciary accounts; the bank does not monitor or enforce the trust terms",
+     "quote": "This account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Deposit account owned by a trust",
+     "page": "web page",
+     "source_url": "https://www.happen.com/legal/deposits/personal-deposit-agreement",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flbank-helm-bank-usa",
    "institution": "Helm Bank USA",
    "segment": "bank",
@@ -4017,6 +4387,42 @@
    }
   },
   {
+   "inst_id": "bank2-international-bank-of-commerce",
+   "institution": "International Bank of Commerce",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust (entity depositor)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trust is treated as an entity depositor under the business and nonpersonal accounts clause",
+     "quote": "If Depositor is an entity, including corporation, professional corporation, limited liability company and/or partnership, unincorporated association, trust, partnership",
+     "account_type": "Deposit account owned by a trust (entity depositor)",
+     "page": "8",
+     "source_url": "https://assets.milestoneinternet.com/ibc-bank/pdf/deposit-account-agreement.pdf?_gl=1*zj338g*_ga*MTI0OTA1OTIxOS4xNzE5ODY5ODU0*_ga_Y7YES7L3ZL*MTcyMDUzMzY4My44LjEuMTcyMDUzNTk2NC41OS4wLjA.",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "trustee_change": {
+     "value": "yes",
+     "detail": "a change of signing authority binds the bank only after written notice signed by the trustee(s), delivered to the International Bancshares Corporation president in Laredo",
+     "quote": "Bank shall not be affected or bound by any revocation, alteration or change of any authority until written notice of such revocation, signed by the President, Managing Partner, Trustee(s), Managing",
+     "account_type": "Deposit account owned by a trust (entity depositor)",
+     "page": "9",
+     "source_url": "https://assets.milestoneinternet.com/ibc-bank/pdf/deposit-account-agreement.pdf?_gl=1*zj338g*_ga*MTI0OTA1OTIxOS4xNzE5ODY5ODU0*_ga_Y7YES7L3ZL*MTcyMDUzMzY4My44LjEuMTcyMDUzNTk2NC41OS4wLjA.",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-ithink-financial",
    "institution": "iTHINK Financial Credit Union",
    "segment": "credit_union",
@@ -4037,6 +4443,78 @@
      "revision_date": "2024-10",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-jax-fire",
+   "institution": "JAX Fire Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable and irrevocable family trust accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "revocable and irrevocable family trusts; all trustees must be eligible for membership and keep it for the life of the account; open in person or by phone contact",
+     "quote": "We're now opening Trust Accounts, including both Revocable and Irrevocable Family Trusts",
+     "account_type": "Revocable and irrevocable family trust accounts",
+     "page": "web page",
+     "source_url": "https://jaxfirecu.org/trust-accounts",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "pages_required": {
+     "value": "yes",
+     "detail": "documents showing the trust name, current trustees and successor trustees",
+     "quote": "Trust documentation showing the Trust name, current Trustees, and Successor Trustees",
+     "account_type": "Revocable and irrevocable family trust accounts",
+     "page": "web page",
+     "source_url": "https://jaxfirecu.org/trust-accounts",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "tax_id": {
+     "value": "yes",
+     "detail": "the trust's own TIN; a trustee's SSN is not accepted",
+     "quote": "Trust's unique Tax Identification Number (TIN) ... (Trust accounts cannot be opened using a Trustee's Social Security Number)",
+     "account_type": "Revocable and irrevocable family trust accounts",
+     "page": "web page",
+     "source_url": "https://jaxfirecu.org/trust-accounts",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-jm-associates",
+   "institution": "JM Associates Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Accounts held on behalf of or in the name of a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "the agreement refers to accounts held in the name of a trust but states no opening or documentation rules",
+     "quote": "This paragraph does not apply to an account held on behalf of or in the name of a trust.",
+     "account_type": "Accounts held on behalf of or in the name of a trust",
+     "page": "2",
+     "source_url": "https://www.jmafcu.org/s/2026-Membership-Agreement-Booklet-Combined.pdf",
+     "form_number": "D1001F-E",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -4133,6 +4611,30 @@
      "revision_date": "2026-09-18",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-keys",
+   "institution": "Keys Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trust account arrangements may be requested; the credit union may refuse instructions or require indemnity or a bond; no trust account terms stated",
+     "quote": "You may request that we facilitate certain business, trust, will, or court- ... ordered account arrangements.",
+     "account_type": "Deposit account owned by a trust",
+     "page": "10",
+     "source_url": "https://www.keysfcu.org/s/Keys-FCU-Membership-Terms-Conditions-Account-Agreement-9-21.pdf",
+     "form_number": "",
+     "revision_date": "2020-02",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -4303,6 +4805,89 @@
      "retrieved": "2026-09-24"
     }
    }
+  },
+  {
+   "inst_id": "flcu-members-first-of-flori",
+   "institution": "Members First Credit Union of Florida",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Share account owned by a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trust qualified for membership may own an individual account; the POD paragraph \"does not apply to an account held on behalf of or in the name of a trust\"",
+     "quote": "An individual account is an account owned by one (1) member (individual, corporation, partnership, trust, or other organization) qualified for credit union membership.",
+     "account_type": "Share account owned by a trust",
+     "page": "1",
+     "source_url": "https://www.membersfirstfl.org/files/mfcufl/1/file/Membership_and_Account_Agreement.pdf",
+     "form_number": "D09DE1",
+     "revision_date": "",
+     "wayback_capture": "2021-08-27",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-metropolitan-commercial-bank",
+   "institution": "Metropolitan Commercial Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust (fiduciary account)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trustees under a written trust agreement may open a fiduciary account; the bank is not a trustee and does not monitor the trust terms",
+     "quote": "A fiduciary account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Deposit account owned by a trust (fiduciary account)",
+     "page": "9",
+     "source_url": "https://mcbankny.com/wp-content/uploads/2025/09/Consumer-Deposit-Agreement_9.22.25.pdf",
+     "form_number": "MNB505",
+     "revision_date": "",
+     "wayback_capture": "2026-01-04",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-miami-firefighters",
+   "institution": "Miami Firefighters Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Share account owned by a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "a trust qualified for membership may own an individual account; the POD/trust designation paragraph does not apply to an account held in the name of a trust",
+     "quote": "An individual account is an account owned by one (1) member (individual, corporation, partnership, trust or other organization) qualified for credit union membership.",
+     "account_type": "Share account owned by a trust",
+     "page": "1",
+     "source_url": "https://www.mffcu.org/files/mffcu/1/file/MEMBERSHIP-AGREEMENT.pdf",
+     "form_number": "D10015",
+     "revision_date": "2007-03",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-miami-postal-service",
+   "institution": "Miami Postal Service Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": true,
+   "fields": {}
   },
   {
    "inst_id": "bank-midfirst-bank",
@@ -4845,6 +5430,42 @@
    }
   },
   {
+   "inst_id": "bank2-plainscapital-bank",
+   "institution": "PlainsCapital Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Trust account established under a written trust agreement"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trustees own the account; the bank acts only as custodian and does not inquire into trustee powers; a time deposit may be retitled into a living trust without early withdrawal penalty",
+     "quote": "A trust account established under a written trust agreement is one established by one or more account owners acting as trustee for the benefit of one or more beneficiaries pursuant to ... a written trust agreement. The parties named as trustees own the account",
+     "account_type": "Trust account established under a written trust agreement",
+     "page": "20",
+     "source_url": "https://www.plainscapital.com/media/70987/personal-deposit-account-agreement-02-14.pdf",
+     "form_number": "",
+     "revision_date": "2014-02-14",
+     "wayback_capture": "2015-03-25",
+     "retrieved": "2026-09-26"
+    },
+    "grantor_death": {
+     "value": "yes",
+     "detail": "on the last surviving trustee's death (usually the grantor as trustee) ownership passes to the beneficiary unless the trust agreement says otherwise",
+     "quote": "On the death of the last surviving trustee, or as otherwise specified in the written trust agreement, the ownership of the account passes to the beneficiary.",
+     "account_type": "Trust account established under a written trust agreement",
+     "page": "21",
+     "source_url": "https://www.plainscapital.com/media/70987/personal-deposit-account-agreement-02-14.pdf",
+     "form_number": "",
+     "revision_date": "2014-02-14",
+     "wayback_capture": "2015-03-25",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-pnc-bank",
    "institution": "PNC Bank, National Association",
    "segment": "bank",
@@ -5265,6 +5886,66 @@
    }
   },
   {
+   "inst_id": "bank2-sandt-bank",
+   "institution": "S&T Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trust-owned deposit accounts",
+     "quote": "Each trustee of any trust which opens and maintains a deposit account (\"Account\") with us hereby certifies that it has the power and authority",
+     "account_type": "Deposit account owned by a trust",
+     "page": "2",
+     "source_url": "https://live-st-bank.pantheonsite.io/wp-content/uploads/2024/03/DAAD_Website.pdf",
+     "form_number": "",
+     "revision_date": "2025-12-31",
+     "wayback_capture": "2026-02-28",
+     "retrieved": "2026-09-26"
+    },
+    "certification_accepted": {
+     "value": "yes",
+     "detail": "the bank relies on resolutions or a certificate from the trustees",
+     "quote": "the resolutions or certificate provided to us are true, complete and accurate and consistent with the authority granted under such trust indenture",
+     "account_type": "Deposit account owned by a trust",
+     "page": "2",
+     "source_url": "https://live-st-bank.pantheonsite.io/wp-content/uploads/2024/03/DAAD_Website.pdf",
+     "form_number": "",
+     "revision_date": "2025-12-31",
+     "wayback_capture": "2026-02-28",
+     "retrieved": "2026-09-26"
+    },
+    "full_instrument_required": {
+     "value": "no",
+     "detail": "the bank may ask for the trust indenture but need not",
+     "quote": "We may, but are not required to, request a copy of the trust indenture from you prior to establishing any Account",
+     "account_type": "Deposit account owned by a trust",
+     "page": "2",
+     "source_url": "https://live-st-bank.pantheonsite.io/wp-content/uploads/2024/03/DAAD_Website.pdf",
+     "form_number": "",
+     "revision_date": "2025-12-31",
+     "wayback_capture": "2026-02-28",
+     "retrieved": "2026-09-26"
+    },
+    "trustee_signatures": {
+     "value": "no",
+     "detail": "the bank may rely on a notice from one trustee; multiple-signature accounts are not offered",
+     "quote": "any Notice from one trustee which is binding, or purports to be binding, upon the other trustees ... S&T Bank does not offer accounts on which two (2) or more signatures are required for a check or withdrawal.",
+     "account_type": "Deposit account owned by a trust",
+     "page": "2",
+     "source_url": "https://live-st-bank.pantheonsite.io/wp-content/uploads/2024/03/DAAD_Website.pdf",
+     "form_number": "",
+     "revision_date": "2025-12-31",
+     "wayback_capture": "2026-02-28",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-sallie-mae-bank",
    "institution": "Sallie Mae Bank",
    "segment": "bank",
@@ -5296,6 +5977,30 @@
      "revision_date": "",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-santa-rosa-county",
+   "institution": "Santa Rosa County Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Share accounts held in the name of a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trust-owned accounts are contemplated but their terms are not stated; the POD paragraph does not apply to them",
+     "quote": "This paragraph does not apply to an account held on behalf of or in the name of a trust.",
+     "account_type": "Share accounts held in the name of a trust",
+     "page": "web page",
+     "source_url": "https://www.srcfcu.org/membership-and-account-agreement",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -5732,6 +6437,42 @@
    }
   },
   {
+   "inst_id": "bank2-third-federal-savings-and-loan-association-of-cleveland",
+   "institution": "Third Federal Savings and Loan Association of Cleveland",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Formal trust account"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "formal trust account held by the trustees under a written trust agreement",
+     "quote": "A formal trust account is an account held by one or more trustees for the benefit of one or more beneficiaries pursuant to a written trust agreement.",
+     "account_type": "Formal trust account",
+     "page": "web page",
+     "source_url": "https://www.thirdfederal.com/disclosures",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2026-03-04",
+     "retrieved": "2026-09-26"
+    },
+    "certification_accepted": {
+     "value": "yes",
+     "detail": "a certification the law lets the bank rely on is an alternative, on request",
+     "quote": "Upon our request, the trustee(s) must supply a complete copy of the trust agreement to us, and any amendment(s) or such other document or certification that applicable law permits us to rely on as a summary or description of the trust establishing the account.",
+     "account_type": "Formal trust account",
+     "page": "web page",
+     "source_url": "https://www.thirdfederal.com/disclosures",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2026-03-04",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-trax",
    "institution": "TRAX Federal Credit Union",
    "segment": "credit_union",
@@ -5752,6 +6493,54 @@
      "revision_date": "",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-tri-counties-bank",
+   "institution": "Tri Counties Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Trust and other fiduciary deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trustee holds legal title; signers certify they are authorized to manage the funds",
+     "quote": "Legal title to the account is owned by the signing party(ies) as trustee, custodian, guardian, executor, administrator, conservator, or other fiduciary for the named beneficiary(ies) under a separate trust agreement",
+     "account_type": "Trust and other fiduciary deposit accounts",
+     "page": "5",
+     "source_url": "https://www.tcbk.com/download_file/view/418e8fcc-2859-41ba-93a6-2734ccfe4bb5",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "certification_accepted": {
+     "value": "yes",
+     "detail": "a trustee's certification of trust may be requested",
+     "quote": "You may be asked to provide a copy of relevant pages of the trust agreement, execute a trustee's certification of trust, or other documents.",
+     "account_type": "Trust and other fiduciary deposit accounts",
+     "page": "5",
+     "source_url": "https://www.tcbk.com/download_file/view/418e8fcc-2859-41ba-93a6-2734ccfe4bb5",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "full_instrument_required": {
+     "value": "no",
+     "detail": "relevant pages, not the whole agreement, are mentioned",
+     "quote": "You may be asked to provide a copy of relevant pages of the trust agreement",
+     "account_type": "Trust and other fiduciary deposit accounts",
+     "page": "5",
+     "source_url": "https://www.tcbk.com/download_file/view/418e8fcc-2859-41ba-93a6-2734ccfe4bb5",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -5788,6 +6577,30 @@
      "revision_date": "",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-tru-fi",
+   "institution": "Tru-Fi Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust"
+   ],
+   "florida": true,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "accounts held in the name of a trust are recognized and excluded from the POD rules; the credit union may refuse instructions or require indemnity or a bond",
+     "quote": "This paragraph does not apply to an account held on behalf of or in the name of a trust. ... You may request that we facilitate certain trust, will, or court-ordered account arrangements.",
+     "account_type": "Deposit account owned by a trust",
+     "page": "4",
+     "source_url": "https://www.truficu.org/assets/files/wByld359",
+     "form_number": "DXPS02-E",
+     "revision_date": "2021-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -6028,6 +6841,78 @@
      "revision_date": "2025-07-01",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-washington-trust-bank",
+   "institution": "Washington Trust Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Deposit account owned by a trust (fiduciary account)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "fiduciary accounts may be opened by trustees under a written trust agreement; the bank does not act as trustee or monitor the trust",
+     "quote": "This account may be opened and maintained by a person or persons named as a trustee under a written trust agreement",
+     "account_type": "Deposit account owned by a trust (fiduciary account)",
+     "page": "4",
+     "source_url": "https://www.watrust.com/images/Disclosures/PersonalProductsDisclosure_%2012_1_12.pdf",
+     "form_number": "",
+     "revision_date": "2012-12",
+     "wayback_capture": "2013-01-29",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-webster-bank",
+   "institution": "Webster Bank, National Association",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Trust agreement deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_account_offered": {
+     "value": "yes",
+     "detail": "trust agreement accounts under a will or written trust; the trustee must be designated as a fiduciary on the account records",
+     "quote": "A trust agreement account is an account established under a will or written trust agreement.",
+     "account_type": "Trust agreement deposit accounts",
+     "page": "9",
+     "source_url": "https://www.websterbank.com/wp-content/uploads/2023/08/deposit-account-agreement.pdf",
+     "form_number": "FN03106",
+     "revision_date": "2026-08-20",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "successor_trustee_proof": {
+     "value": "yes",
+     "detail": "funds frozen until \"all required legal documents\" are delivered; documents not listed",
+     "quote": "If the trustee dies or is replaced as trustee, we will not release any funds until all required legal documents have been delivered to us and all other legal requirements for such release have been met.",
+     "account_type": "Trust agreement deposit accounts",
+     "page": "9",
+     "source_url": "https://www.websterbank.com/wp-content/uploads/2023/08/deposit-account-agreement.pdf",
+     "form_number": "FN03106",
+     "revision_date": "2026-08-20",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "trustee_change": {
+     "value": "yes",
+     "detail": "same rule on a trustee's death or replacement; the bank follows the trustee's instructions until written notice that the agency ended",
+     "quote": "If the trustee dies or is replaced as trustee, we will not release any funds until all required legal documents have been delivered to us",
+     "account_type": "Trust agreement deposit accounts",
+     "page": "9",
+     "source_url": "https://www.websterbank.com/wp-content/uploads/2023/08/deposit-account-agreement.pdf",
+     "form_number": "FN03106",
+     "revision_date": "2026-08-20",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },

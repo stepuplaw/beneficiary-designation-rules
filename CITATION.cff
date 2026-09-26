@@ -7,8 +7,8 @@ authors:
     given-names: Kevin D.
     affiliation: "Klagge Law, PLLC (StepUpLaw)"
     orcid: "https://orcid.org/0009-0002-1385-8498"
-version: "2026.09.25"
-date-released: "2026-09-25"
+version: "2026.09.27"
+date-released: "2026-09-27"
 license: CC-BY-4.0
 url: "https://stepuplaw.com/data/beneficiary-designation-rules/"
 repository-code: "https://github.com/stepuplaw/beneficiary-designation-rules"

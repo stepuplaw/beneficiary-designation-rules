@@ -3,8 +3,8 @@
  "publisher": "StepUp Law (Klagge Law, PLLC)",
  "license": "CC BY 4.0",
  "retrieved_from": "2026-09-24",
- "retrieved_to": "2026-09-25",
- "institutions_checked": 379,
+ "retrieved_to": "2026-09-26",
+ "institutions_checked": 546,
  "rows": [
   {
    "inst_id": "ins-allianz-life",
@@ -4818,6 +4818,54 @@
    }
   },
   {
+   "inst_id": "bank2-banner-bank",
+   "institution": "Banner Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD deposit accounts (checking, savings, money market, CDs)"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "if no POD beneficiary survives, the account reverts to the surviving owner(s) as an individual or survivorship account, and an individual account passes as part of the owner's estate; the business agreement says a sole proprietor's account without POD passes under the will or by intestacy",
+     "quote": "If no beneficiary survives all of the account owners, then the account shall be treated as an individual account (if there is one surviving account owner) or as a joint account with right of survivorship ... On the death of the party, ownership passes as part of the party's estate.",
+     "account_type": "POD deposit accounts (checking, savings, money market, CDs)",
+     "page": "3",
+     "source_url": "https://www.bannerbank.com/-/media/project/banner-bank/dotcom/pdfs/consumer-disclosure_ada.pdf?rev=cc221b0f34574401b64a3772f311acbe&sc_lang=en&hash=1EFC70836EFC2C5B843D2050F953B714",
+     "form_number": "",
+     "revision_date": "2025-05",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries who survive all owners take, in equal shares unless otherwise indicated; a predeceased beneficiary's share is not paid to that beneficiary's estate or descendants",
+     "quote": "A beneficiary can only acquire withdrawal rights by surviving all of the account owners. If more than one named beneficiary survives all of the account owners, then the beneficiaries will be entitled to equal shares of the funds without right of survivorship, unless otherwise indicated.",
+     "account_type": "POD deposit accounts (checking, savings, money market, CDs)",
+     "page": "3",
+     "source_url": "https://www.bannerbank.com/-/media/project/banner-bank/dotcom/pdfs/consumer-disclosure_ada.pdf?rev=cc221b0f34574401b64a3772f311acbe&sc_lang=en&hash=1EFC70836EFC2C5B843D2050F953B714",
+     "form_number": "",
+     "revision_date": "2025-05",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "in writing, in a form acceptable to the bank (channel not specified)",
+     "quote": "The account owner(s) may change the named beneficiaries at any time by written direction in a form acceptable to us.",
+     "account_type": "POD deposit accounts (checking, savings, money market, CDs)",
+     "page": "3",
+     "source_url": "https://www.bannerbank.com/-/media/project/banner-bank/dotcom/pdfs/consumer-disclosure_ada.pdf?rev=cc221b0f34574401b64a3772f311acbe&sc_lang=en&hash=1EFC70836EFC2C5B843D2050F953B714",
+     "form_number": "",
+     "revision_date": "2025-05",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flbank-bayfirst-national-bank",
    "institution": "BayFirst National Bank",
    "segment": "bank",
@@ -5070,6 +5118,54 @@
    }
   },
   {
+   "inst_id": "bank2-byline-bank",
+   "institution": "Byline Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Totten trust (in-trust-for) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "estate of the last surviving owner",
+     "quote": "If there are no eligible beneficiaries, title to the Account will vest in the estate of the last surviving owner.",
+     "account_type": "Totten trust (in-trust-for) deposit accounts",
+     "page": "web page",
+     "source_url": "https://www.bylinebank.com/disclosures/personal-deposit-account-agreement-and-disclosures",
+     "form_number": "",
+     "revision_date": "2026-03-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries who survive all owners take; a surviving beneficiary who dies before payment is paid through a representative or estate; shares are not stated",
+     "quote": "Upon the death of all Account owners, the beneficiaries shown on the Account who survive the Account owners and/or who lawfully exist (for non-individuals) will become the owners of the Account. Upon our receipt of proof of death of all owners and additional documents required by us, the funds will be distributed to each beneficiary (or their representative or estate as applicable) who survives the owner.",
+     "account_type": "Totten trust (in-trust-for) deposit accounts",
+     "page": "web page",
+     "source_url": "https://www.bylinebank.com/disclosures/personal-deposit-account-agreement-and-disclosures",
+     "form_number": "",
+     "revision_date": "2026-03-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "signed signature card or other account documentation (channel not specified)",
+     "quote": "You may change the designated beneficiary, but if you wish to do so, you must complete and sign a new signature card or complete other Account documentation, which names the new beneficiary.",
+     "account_type": "Totten trust (in-trust-for) deposit accounts",
+     "page": "web page",
+     "source_url": "https://www.bylinebank.com/disclosures/personal-deposit-account-agreement-and-disclosures",
+     "form_number": "",
+     "revision_date": "2026-03-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-campus-usa",
    "institution": "Campus USA Credit Union",
    "segment": "credit_union",
@@ -5281,6 +5377,102 @@
      "revision_date": "2025-11",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-centier-bank",
+   "institution": "Centier Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD (TOD) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "Indiana Transfer on Death Property Act governs when no designation applies",
+     "quote": "In the absence of such designation, distribution will be determined pursuant to the Indiana Transfer on Death Property Act (IC 32-17-14).",
+     "account_type": "POD (TOD) deposit accounts",
+     "page": "6",
+     "source_url": "https://www.centier.com/docs/default-source/resources/consumer-account-agreement.pdf?sfvrsn=5c8eb1f6_50",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the last owner's death take; otherwise the Indiana TOD Act applies",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all persons creating the account die, and (2) the beneficiary is then living. Distribution to beneficiaries will be determined according to the most recent designation on file.",
+     "account_type": "POD (TOD) deposit accounts",
+     "page": "6",
+     "source_url": "https://www.centier.com/docs/default-source/resources/consumer-account-agreement.pdf?sfvrsn=5c8eb1f6_50",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "signed by every owner who created the account (channel not specified)",
+     "quote": "Change of beneficiaries or account type requires signature of all person(s) creating this account.",
+     "account_type": "POD (TOD) deposit accounts",
+     "page": "6",
+     "source_url": "https://www.centier.com/docs/default-source/resources/consumer-account-agreement.pdf?sfvrsn=5c8eb1f6_50",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-central-pacific-bank",
+   "institution": "Central Pacific Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Informal Trust Account (in trust for / POD deposit accounts)"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "if no beneficiary survives the last owner (trustee), state law decides; the estate is not named",
+     "quote": "If there is no surviving beneficiary upon the death of the last trustee, state law will determine ownership of the funds in the account.",
+     "account_type": "Informal Trust Account (in trust for / POD deposit accounts)",
+     "page": "3",
+     "source_url": "https://www.cpb.bank/deposit-account-agreement-disclosure",
+     "form_number": "",
+     "revision_date": "2024-12",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries who survive the last owner take, equally unless the records show otherwise; a predeceased beneficiary's share is not paid to that beneficiary's estate or descendants",
+     "quote": "Accounts that are held in an informal trust for the benefit of others pass automatically (and in equal shares unless otherwise indicated in our records) to the named beneficiaries who survive the last surviving owner.",
+     "account_type": "Informal Trust Account (in trust for / POD deposit accounts)",
+     "page": "7",
+     "source_url": "https://www.cpb.bank/deposit-account-agreement-disclosure",
+     "form_number": "",
+     "revision_date": "2024-12",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "in writing (channel not specified)",
+     "quote": "the trustee may withdraw money from the account and may, by written direction to us, change the beneficiary for the account.",
+     "account_type": "Informal Trust Account (in trust for / POD deposit accounts)",
+     "page": "2",
+     "source_url": "https://www.cpb.bank/deposit-account-agreement-disclosure",
+     "form_number": "",
+     "revision_date": "2024-12",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -5839,6 +6031,30 @@
    }
   },
   {
+   "inst_id": "flcu-city-county-employees",
+   "institution": "City-County Employees Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD / trust (ITF) share accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving beneficiaries take, in equal shares without survivorship",
+     "quote": "when the last account owner dies, is payable to all surviving POD or trust beneficiaries/payees. Unless state law provides for different ownership or as permitted and documented by us, the beneficiaries/payees will own the funds jointly in equal shares without rights of survivorship when there is more than one surviving beneficiary/payee.",
+     "account_type": "POD / trust (ITF) share accounts",
+     "page": "2",
+     "source_url": "https://www.ccecu.org/images/downloads/Membership-And-Account-Agreement.pdf",
+     "form_number": "D10019-E",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-columbia-bank",
    "institution": "Columbia Bank",
    "segment": "bank",
@@ -5871,6 +6087,30 @@
      "revision_date": "",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-columbia-bank",
+   "institution": "Columbia Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "P.O.D. and Totten trust deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only payees who survive all account holders take, in equal shares unless the account states otherwise; the same rule applies to Totten trust beneficiaries who survive all trustees. After that there is no survivorship among payees unless stated in the account",
+     "quote": "Where there are two or more P.O.D. payee(s), the Account will belong to the payee(s) who survive all Account Holders. Unless otherwise specifically stated in the Account by the Account Holders, each surviving P.O.D. payee will own an equal share of the Account.",
+     "account_type": "P.O.D. and Totten trust deposit accounts",
+     "page": "10",
+     "source_url": "http://www.columbiabankonline.com:80/home/fiFiles/static/documents/disclosure-depositaccountagreement.pdf",
+     "form_number": "",
+     "revision_date": "2014-08-05",
+     "wayback_capture": "2016-08-28",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -5919,6 +6159,30 @@
      "revision_date": "2021-10",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-community-bank",
+   "institution": "Community Bank, National Association",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable trust (in-trust-for / POD) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all creators take, in equal shares, without survivorship among them",
+     "quote": "Beneficiaries acquire the right to withdraw only if: (1) all persons creating the account are deceased, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the death of all persons creating the account, such beneficiaries will own this account in equal shares, without right of survivorship.",
+     "account_type": "Revocable trust (in-trust-for / POD) deposit accounts",
+     "page": "4",
+     "source_url": "https://cdn.cbna.com/craft-prod/infographics/Deposit-Account-Agreement-Terms-and-Conditions-2024-updates-4-19-24-Final.pdf",
+     "form_number": "",
+     "revision_date": "2024-04-19",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -6055,6 +6319,17 @@
    }
   },
   {
+   "inst_id": "bank2-dollar-bank-federal-savings-bank",
+   "institution": "Dollar Bank, Federal Savings Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "In trust for and payable on death accounts"
+   ],
+   "florida": false,
+   "fields": {}
+  },
+  {
    "inst_id": "bank-east-west-bank",
    "institution": "East West Bank",
    "segment": "bank",
@@ -6123,6 +6398,30 @@
      "revision_date": "2024-06-01",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-ecu",
+   "institution": "ECU Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and trust (ITF) share and certificate accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving beneficiaries take, jointly without survivorship; shares are not specified",
+     "quote": "when the last account owner dies, is payable to all surviving POD or trust beneficiary/payee. Upon the death of the last account owner, if there is more than one (1) surviving beneficiary/payee, the account is owned jointly by such beneficiaries/payees without rights of survivorship.",
+     "account_type": "POD and trust (ITF) share and certificate accounts",
+     "page": "1",
+     "source_url": "https://www.ecucreditunion.com/uploads/5/7/5/4/5754329/membership_and_account_agreement.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2021-03-01",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -6367,6 +6666,126 @@
    }
   },
   {
+   "inst_id": "flcu-ficare",
+   "institution": "FiCare Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD / trust (ITF) share accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "ldps_or_descendants_allowed": {
+     "value": "no",
+     "detail": "each beneficiary listed individually with SSN and DOB",
+     "quote": "Name ... Relation ... Social ... Date of Birth",
+     "account_type": "POD / trust (ITF) share accounts",
+     "page": "1",
+     "source_url": "https://www.ficarefcu.org/files/ficarefcu/1/file/Forms/Beneficiary-Form.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "a predeceased beneficiary's interest goes equally to the remaining beneficiaries; but the owner may set unequal percentages",
+     "quote": "Upon the death of the Owner(s), these funds shall be owned by the Beneficiaries in the percentages listed below. ... Should any Beneficiary predecease the Owners, all rights and privileges of the deceased Beneficiary in this account shall terminate and the deceased Beneficiary's interest in the account shall be divided equally among the remaining Beneficiaries.",
+     "account_type": "POD / trust (ITF) share accounts",
+     "page": "1",
+     "source_url": "https://www.ficarefcu.org/files/ficarefcu/1/file/Forms/Beneficiary-Form.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "in writing, on a form acceptable to the credit union (channel not specified)",
+     "quote": "To be binding on the Credit Union, such revocation must be in writing and in a form acceptable to the Credit Union.",
+     "account_type": "POD / trust (ITF) share accounts",
+     "page": "1",
+     "source_url": "https://www.ficarefcu.org/files/ficarefcu/1/file/Forms/Beneficiary-Form.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-first-choice",
+   "institution": "First Choice Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD share, checking and certificate accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving POD beneficiaries take; two or more take jointly with right of survivorship among themselves",
+     "quote": "upon the death of the last account owner, such POD account is payable to any named and surviving POD beneficiary designated on your Account Card. Accounts payable to more than one surviving POD beneficiary are owned jointly by such beneficiaries with rights of survivorship, not owned as tenants in the entirety nor owned as tenants in common",
+     "account_type": "POD share, checking and certificate accounts",
+     "page": "2",
+     "source_url": "https://www.firstchoicecu.org/wp-content/uploads/2026/08/Membership-Agreement-08-27-2026.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "online_designation": {
+     "value": "no",
+     "detail": "designation and changes only on the credit union's written account form",
+     "quote": "Any POD designation must be written on our account form and accepted by us. ... any change or revocation of POD beneficiaries must be written on our account form and accepted by us",
+     "account_type": "POD share, checking and certificate accounts",
+     "page": "2",
+     "source_url": "https://www.firstchoicecu.org/wp-content/uploads/2026/08/Membership-Agreement-08-27-2026.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "in writing on the credit union's account form (channel not specified); any one account owner may change or revoke",
+     "quote": "Any Account Owner may change (or revoke)any or all POD beneficiaries at any time ; provided that any change or revocation of POD beneficiaries must be written on our account form and accepted by us",
+     "account_type": "POD share, checking and certificate accounts",
+     "page": "3",
+     "source_url": "https://www.firstchoicecu.org/wp-content/uploads/2026/08/Membership-Agreement-08-27-2026.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-first-commonwealth-bank",
+   "institution": "First Commonwealth Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "In-Trust-For (ITF) and payable-on-death deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all owners take, in equal shares without survivorship; a predeceased beneficiary takes nothing",
+     "quote": "Beneficiaries cannot withdraw unless all individual(s) creating the Account die and the beneficiary is then living. If two or more beneficiaries are named and survive the death of all individual(s) creating the Account, such beneficiaries will own this Account in equal shares, without right of survivorship.",
+     "account_type": "In-Trust-For (ITF) and payable-on-death deposit accounts",
+     "page": "12",
+     "source_url": "https://www.fcbanking.com/media/qufptg34/fcb-deposit-account-agreement_070125.pdf",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "2026-02-10",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-first-horizon-bank",
    "institution": "First Horizon Bank",
    "segment": "bank",
@@ -6451,6 +6870,41 @@
    }
   },
   {
+   "inst_id": "bank2-firstbank",
+   "institution": "FirstBank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable Trust or Pay-On-Death Account"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all owners take, in equal shares; a predeceased beneficiary takes nothing",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all persons creating the account die, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the death of all persons creating the account, beneficiaries will own this account in equal shares, without right of survivorship.",
+     "account_type": "Revocable Trust or Pay-On-Death Account",
+     "page": "2",
+     "source_url": "http://www.firstbankonline.com/wp-content/uploads/2013/12/FirstBank-AccountAgreement-TermsConditions.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2014-10-20",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-firstbank-puerto-rico",
+   "institution": "FirstBank Puerto Rico",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "In Trust For (ITF) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {}
+  },
+  {
    "inst_id": "flcu-florida",
    "institution": "Florida Credit Union",
    "segment": "credit_union",
@@ -6499,6 +6953,17 @@
    }
   },
   {
+   "inst_id": "flcu-florida-west-coast",
+   "institution": "Florida West Coast Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD share, share draft and certificate accounts"
+   ],
+   "florida": true,
+   "fields": {}
+  },
+  {
    "inst_id": "flcu-floridacentral",
    "institution": "FloridaCentral Credit Union",
    "segment": "credit_union",
@@ -6508,6 +6973,30 @@
    ],
    "florida": true,
    "fields": {}
+  },
+  {
+   "inst_id": "bank2-forbright-bank",
+   "institution": "Forbright Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable trust (informal trust) or POD deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all account holders take, in equal shares without survivorship among them",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all account holders die, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the death of all account holders, beneficiaries will own this account in equal shares, without right of survivorship.",
+     "account_type": "Revocable trust (informal trust) or POD deposit accounts",
+     "page": "4",
+     "source_url": "https://www.forbrightbank.com/wp-content/uploads/2024/11/Final-Forbright-Consumer-Terms-and-Conditions.pdf",
+     "form_number": "EMDAIB35",
+     "revision_date": "2024-08",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
   },
   {
    "inst_id": "bank-frost-bank",
@@ -6966,6 +7455,78 @@
    }
   },
   {
+   "inst_id": "bank2-hanmi-bank",
+   "institution": "Hanmi Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and Totten trust (in trust for) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "stated only in the Texas customer terms for trust (ITF) accounts, the trustee's estate takes if the trustee survives all beneficiaries; the general POD section does not say who takes when no beneficiary survives",
+     "quote": "On the death of the last surviving trustee, the ownership of the account passes to the beneficiary. The trust account is not a part of the trustee's estate and does not pass under the trustee's will or by intestacy, unless the trustee survives all of the beneficiaries and all other trustees.",
+     "account_type": "POD and Totten trust (in trust for) deposit accounts",
+     "page": "18",
+     "source_url": "https://www.hanmi.com/deposit-account-agreement",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries who survive the last surviving owner take, equally unless the records show otherwise; a predeceased beneficiary's share is not paid to that beneficiary's estate or descendants",
+     "quote": "these accounts pass automatically (and in equal shares unless otherwise indicated in our records) to the named beneficiaries who survive the last surviving owner. ... Upon the death of the last surviving owner, the account funds pass to the surviving beneficiary or beneficiaries.",
+     "account_type": "POD and Totten trust (in trust for) deposit accounts",
+     "page": "17",
+     "source_url": "https://www.hanmi.com/deposit-account-agreement",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-happen-bank",
+   "institution": "Happen Bank, National Association",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and revocable trust (ITF) deposit and CD accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "ldps_or_descendants_allowed": {
+     "value": "no",
+     "detail": "each designee is named individually with Social Security number and date of birth",
+     "quote": "Please accept this letter as my written request to add the person below as the ... Beneficiary/POD Designee Name",
+     "account_type": "POD and revocable trust (ITF) deposit and CD accounts",
+     "page": "1",
+     "source_url": "https://assets.ctfassets.net/orqped9h4wgz/2sMUXpGwsOsicPtXPnEGH7/0b8684261b93548c720adfb53e643138/Beneficiary_POD_Form_260601.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only a beneficiary living at the death of all owners takes; surviving beneficiaries in equal shares; the CD agreement pays those who survive the last trustee \"in an equal portion\"",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all persons creating the account die, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the death of all persons creating the account, beneficiaries will own this account in equal shares, without right of survivorship.",
+     "account_type": "POD and revocable trust (ITF) deposit and CD accounts",
+     "page": "web page",
+     "source_url": "https://www.happen.com/legal/deposits/personal-deposit-agreement",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flbank-helm-bank-usa",
    "institution": "Helm Bank USA",
    "segment": "bank",
@@ -7206,6 +7767,66 @@
    }
   },
   {
+   "inst_id": "flcu-jax-fire",
+   "institution": "JAX Fire Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable trust / POD share accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "a beneficiary takes only if alive at the settlor's death; if the beneficiary dies first the trust terminates; the singular wording does not say what happens when one of several beneficiaries predeceases",
+     "quote": "If the Account Designation shows a payable on death status, any ... Beneficiary has rights to the Account only if alive and only if the Settlor ... is deceased. If the Beneficiary dies before the Settler, the Trust is ... terminated.",
+     "account_type": "Revocable trust / POD share accounts",
+     "page": "1",
+     "source_url": "https://jaxfirecu.org/wp-content/uploads/2020/06/Account-Agreement.pdf",
+     "form_number": "",
+     "revision_date": "2008-11",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "by adequate proof in a manner acceptable to the credit union (channel not specified)",
+     "quote": "The Settlor may change the Beneficiary at any time by ... providing Us adequate proof of such change in a manner acceptable to",
+     "account_type": "Revocable trust / POD share accounts",
+     "page": "1",
+     "source_url": "https://jaxfirecu.org/wp-content/uploads/2020/06/Account-Agreement.pdf",
+     "form_number": "",
+     "revision_date": "2008-11",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-jm-associates",
+   "institution": "JM Associates Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and trust (ITF) share and certificate accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving beneficiaries take, in equal shares without survivorship, unless state law or the credit union's documentation provides otherwise",
+     "quote": "when the last account owner dies, is payable to all surviving POD or trust beneficiaries/payees. Unless state law provides for different ownership or as permitted and documented by us, the beneficiaries/payees will own the funds jointly in equal shares without rights of survivorship when there is more than one surviving beneficiary/payee.",
+     "account_type": "POD and trust (ITF) share and certificate accounts",
+     "page": "2",
+     "source_url": "https://www.jmafcu.org/s/2026-Membership-Agreement-Booklet-Combined.pdf",
+     "form_number": "D1001F-E",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-jpmorgan-chase-bank",
    "institution": "JPMorgan Chase Bank, National Association",
    "segment": "bank",
@@ -7239,6 +7860,42 @@
    ],
    "florida": false,
    "fields": {}
+  },
+  {
+   "inst_id": "flcu-keys",
+   "institution": "Keys Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable trust (POD) share, checking and certificate accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all owners take, in equal shares; a predeceased beneficiary's share is not paid to that beneficiary's estate",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all persons creating the ... account die, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the ... death of all persons creating the account, beneficiaries will own this account in equal shares, without ... right of survivorship.",
+     "account_type": "Revocable trust (POD) share, checking and certificate accounts",
+     "page": "6",
+     "source_url": "https://www.keysfcu.org/s/Keys-FCU-Membership-Terms-Conditions-Account-Agreement-9-21.pdf",
+     "form_number": "",
+     "revision_date": "2020-02",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "signed Account Change form accepted by the credit union (channel not stated); the owners may change beneficiaries at any time",
+     "quote": "Account changes requested by you, or any account owner, such as adding or closing an account or service, must ... be evidenced by a signed Account Change form, and accepted by us.",
+     "account_type": "Revocable trust (POD) share, checking and certificate accounts",
+     "page": "10",
+     "source_url": "https://www.keysfcu.org/s/Keys-FCU-Membership-Terms-Conditions-Account-Agreement-9-21.pdf",
+     "form_number": "",
+     "revision_date": "2020-02",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
   },
   {
    "inst_id": "flcu-launch",
@@ -7383,6 +8040,125 @@
      "retrieved": "2026-09-24"
     }
    }
+  },
+  {
+   "inst_id": "flcu-members-first-of-flori",
+   "institution": "Members First Credit Union of Florida",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Individual and joint share accounts with POD designation"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving POD beneficiaries take; two or more survivors own the account \"jointly\" (the agreement's joint accounts carry survivorship by default)",
+     "quote": "when the last account owner dies, is payable to all surviving Payable on Death beneficiaries/payees. Upon the death of the last account owner, if there is more than one (1) surviving beneficiary/payee, the account is owned jointly by such beneficiaries/payees.",
+     "account_type": "Individual and joint share accounts with POD designation",
+     "page": "1",
+     "source_url": "https://www.membersfirstfl.org/files/mfcufl/1/file/Membership_and_Account_Agreement.pdf",
+     "form_number": "D09DE1",
+     "revision_date": "",
+     "wayback_capture": "2021-08-27",
+     "retrieved": "2026-09-26"
+    },
+    "online_designation": {
+     "value": "yes",
+     "detail": "ownership features are designated on the Account Card or through the online application process; POD is not named expressly here",
+     "quote": "Your account type(s) and ownership features are designated by you on your Account Card or through the Credit Union's online application and authentication process.",
+     "account_type": "Individual and joint share accounts with POD designation",
+     "page": "1",
+     "source_url": "https://www.membersfirstfl.org/files/mfcufl/1/file/Membership_and_Account_Agreement.pdf",
+     "form_number": "D09DE1",
+     "revision_date": "",
+     "wayback_capture": "2021-08-27",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "signed Account Change Card (or online application and authentication at opening)",
+     "quote": "We may require that account changes requested by you, or any account owner, such as adding or closing an account or service, be evidenced by a signed Account Change Card or other document",
+     "account_type": "Individual and joint share accounts with POD designation",
+     "page": "6",
+     "source_url": "https://www.membersfirstfl.org/files/mfcufl/1/file/Membership_and_Account_Agreement.pdf",
+     "form_number": "D09DE1",
+     "revision_date": "",
+     "wayback_capture": "2021-08-27",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-metropolitan-commercial-bank",
+   "institution": "Metropolitan Commercial Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable Trust Account (in trust for / POD deposit accounts)"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all owners take, in equal shares; a predeceased beneficiary takes nothing",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all persons creating the account die, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the death of all persons creating the account, such beneficiaries will own this account in equal shares, without right of survivorship.",
+     "account_type": "Revocable Trust Account (in trust for / POD deposit accounts)",
+     "page": "6",
+     "source_url": "https://mcbankny.com/wp-content/uploads/2025/09/Consumer-Deposit-Agreement_9.22.25.pdf",
+     "form_number": "MNB505",
+     "revision_date": "",
+     "wayback_capture": "2026-01-04",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-miami-firefighters",
+   "institution": "Miami Firefighters Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD / ITF share accounts (individual and joint)"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving POD or ITF beneficiaries take, jointly without survivorship",
+     "quote": "payable to all and surviving POD or trust beneficiaries/payees. If there is more than one (1) surviving beneficiary/payee, the account is owned jointly by such beneficiaries/payees without rights of survivorship upon the death of the last account owner.",
+     "account_type": "POD / ITF share accounts (individual and joint)",
+     "page": "1",
+     "source_url": "https://www.mffcu.org/files/mffcu/1/file/MEMBERSHIP-AGREEMENT.pdf",
+     "form_number": "D10015",
+     "revision_date": "2007-03",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "on a signed Account Change Card accepted by the credit union (channel not specified)",
+     "quote": "Account changes requested by you, or any account owner, such as adding or closing an account or service, must be evidenced by a signed Account Change Card and accepted by us.",
+     "account_type": "POD / ITF share accounts (individual and joint)",
+     "page": "5",
+     "source_url": "https://www.mffcu.org/files/mffcu/1/file/MEMBERSHIP-AGREEMENT.pdf",
+     "form_number": "D10015",
+     "revision_date": "2007-03",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-miami-postal-service",
+   "institution": "Miami Postal Service Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD share, share draft and certificate accounts"
+   ],
+   "florida": true,
+   "fields": {}
   },
   {
    "inst_id": "bank-midfirst-bank",
@@ -7780,6 +8556,42 @@
    "fields": {}
   },
   {
+   "inst_id": "bank2-plainscapital-bank",
+   "institution": "PlainsCapital Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and \"In Trust For\" deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "owner's estate if no POD designation; an ITF account falls into the owner's estate only if the owner survives all beneficiaries and trustees",
+     "quote": "If the party has not designated a POD beneficiary on the signature card for the account, on the death of the party ownership of the account passes as part of the party's estate under the party's will or by intestacy. ... The account is not a part of the trustee's estate and does not pass under the trustee's will or by intestacy, unless the trustee survives all of the beneficiaries and all other trustees.",
+     "account_type": "POD and \"In Trust For\" deposit accounts",
+     "page": "18",
+     "source_url": "https://www.plainscapital.com/media/70987/personal-deposit-account-agreement-02-14.pdf",
+     "form_number": "",
+     "revision_date": "2014-02-14",
+     "wayback_capture": "2015-03-25",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "on the signature card, or a later signature card or written modification the bank accepts",
+     "quote": "If the party designates a POD beneficiary or beneficiaries on the signature card for the account ... by the Signature Card that you sign when opening the account, or any subsequent Signature Card or written modification that we accept.",
+     "account_type": "POD and \"In Trust For\" deposit accounts",
+     "page": "18",
+     "source_url": "https://www.plainscapital.com/media/70987/personal-deposit-account-agreement-02-14.pdf",
+     "form_number": "",
+     "revision_date": "2014-02-14",
+     "wayback_capture": "2015-03-25",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-pnc-bank",
    "institution": "PNC Bank, National Association",
    "segment": "bank",
@@ -8104,6 +8916,17 @@
    }
   },
   {
+   "inst_id": "bank2-sandt-bank",
+   "institution": "S&T Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "In trust for (named beneficiary) deposit accounts"
+   ],
+   "florida": false,
+   "fields": {}
+  },
+  {
    "inst_id": "bank-sallie-mae-bank",
    "institution": "Sallie Mae Bank",
    "segment": "bank",
@@ -8124,6 +8947,42 @@
    ],
    "florida": false,
    "fields": {}
+  },
+  {
+   "inst_id": "flcu-santa-rosa-county",
+   "institution": "Santa Rosa County Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and trust (ITF) share accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving POD or ITF beneficiaries take, in equal shares without survivorship among them, unless state law or the credit union's documentation provides otherwise",
+     "quote": "when the last account owner dies, is payable to all surviving POD or trust beneficiaries/payees. Unless state law provides for different ownership or as permitted and documented by us, the beneficiaries/payees will own the funds jointly in equal shares without rights of survivorship when there is more than one surviving beneficiary/payee.",
+     "account_type": "POD and trust (ITF) share accounts",
+     "page": "web page",
+     "source_url": "https://www.srcfcu.org/membership-and-account-agreement",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "Account Card or online application at opening; signed Account Change Card or Member Services Request for changes",
+     "quote": "Your account type(s) and ownership features are designated by you on your Account Card or through the Credit Union's online application and authentication process. ... We may require that account changes requested by you, or any account owner, such as adding or closing an account or service, be evidenced by a signed Account Change Card, Member Services Request, or other document which evidences a change to an account and accepted by us.",
+     "account_type": "POD and trust (ITF) share accounts",
+     "page": "web page",
+     "source_url": "https://www.srcfcu.org/membership-and-account-agreement",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
   },
   {
    "inst_id": "bank-santander-bank-n-a",
@@ -8462,6 +9321,42 @@
    }
   },
   {
+   "inst_id": "flcu-sun",
+   "institution": "Sun Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Share and certificate accounts (POD beneficiary designation)"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "the living primary beneficiary takes, otherwise the contingent; the form does not say what happens to one predeceased primary's share when another primary survives",
+     "quote": "If Primary and Contingent Beneficiaries are chosen, upon Member's death, the amount in the account shall be payable to the Principal Beneficiary if living, otherwise to the Contingent Beneficiary.",
+     "account_type": "Share and certificate accounts (POD beneficiary designation)",
+     "page": "1",
+     "source_url": "https://suncu.org/wp-content/uploads/2025/03/Beneficiaries-Designation.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "notarization_or_medallion": {
+     "value": "yes",
+     "detail": "notarized unless signed before a Sun Credit Union employee (note on the current 2025 form only)",
+     "quote": "This form must be notarized if not signed in the presence of a Sun Credit Union employee.",
+     "account_type": "Share and certificate accounts (POD beneficiary designation)",
+     "page": "1",
+     "source_url": "https://suncu.org/wp-content/uploads/2025/03/Beneficiaries-Designation.pdf",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "cu-suncoast",
    "institution": "Suncoast Credit Union",
    "segment": "credit_union",
@@ -8630,6 +9525,54 @@
    }
   },
   {
+   "inst_id": "bank2-third-federal-savings-and-loan-association-of-cleveland",
+   "institution": "Third Federal Savings and Loan Association of Cleveland",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD deposit accounts (single-party and multiple-party with survivorship)"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "estate of the last surviving owner if no POD beneficiary survives",
+     "quote": "If no beneficiary survives the POD account owner(s), funds on deposit belong to the estate of the last surviving POD account owner.",
+     "account_type": "POD deposit accounts (single-party and multiple-party with survivorship)",
+     "page": "web page",
+     "source_url": "https://www.thirdfederal.com/disclosures",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2026-03-04",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving beneficiaries take; the agreement does not state the shares",
+     "quote": "On the death of the sole POD account owner or the last survivor of two or more POD account owners, funds on deposit belong to the surviving beneficiary or beneficiaries.",
+     "account_type": "POD deposit accounts (single-party and multiple-party with survivorship)",
+     "page": "web page",
+     "source_url": "https://www.thirdfederal.com/disclosures",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2026-03-04",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "signed by all POD owners; account changes in writing or electronically through Online Banking",
+     "quote": "all POD owners must sign to change and/or delete the designated beneficiary/beneficiaries ... You must notify us of any changes related to the account and its ownership and use, either in writing or if you are enrolled in Online Banking services, electronically",
+     "account_type": "POD deposit accounts (single-party and multiple-party with survivorship)",
+     "page": "web page",
+     "source_url": "https://www.thirdfederal.com/disclosures",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2026-03-04",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-trax",
    "institution": "TRAX Federal Credit Union",
    "segment": "credit_union",
@@ -8690,6 +9633,30 @@
    }
   },
   {
+   "inst_id": "bank2-tri-counties-bank",
+   "institution": "Tri Counties Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Payable on Death (P.O.D.) and Totten trust deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only payees surviving all owners take, equally unless the bank's records show otherwise; the same rule applies to Totten trust beneficiaries",
+     "quote": "When all account owners have died the account is owned by the surviving P.O.D. payee(s). A P.O.D. payee must survive the death of all account owners to receive any interest in the account funds.",
+     "account_type": "Payable on Death (P.O.D.) and Totten trust deposit accounts",
+     "page": "5",
+     "source_url": "https://www.tcbk.com/download_file/view/418e8fcc-2859-41ba-93a6-2734ccfe4bb5",
+     "form_number": "",
+     "revision_date": "2025-07-01",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "flcu-tropical-financial",
    "institution": "Tropical Financial Credit Union",
    "segment": "credit_union",
@@ -8746,6 +9713,42 @@
      "revision_date": "",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-tru-fi",
+   "institution": "Tru-Fi Credit Union",
+   "segment": "credit_union",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD and trust (in trust for) share and deposit accounts"
+   ],
+   "florida": true,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only surviving POD beneficiaries take, in equal shares, unless the credit union permits and documents otherwise",
+     "quote": "when the last account owner dies, is payable to all surviving POD or trust beneficiaries/payees. Unless state law provides for different ownership or as permitted and documented by us, the beneficiaries/payees will own the funds jointly in equal shares without rights of survivorship when there is more than one surviving beneficiary/payee.",
+     "account_type": "POD and trust (in trust for) share and deposit accounts",
+     "page": "4",
+     "source_url": "https://www.truficu.org/assets/files/wByld359",
+     "form_number": "DXPS02-E",
+     "revision_date": "2021-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "account changes may require a signed Account Change Card or Member Services Request; the designation itself is made on the Account Card or in the online application",
+     "quote": "We may require that account changes requested by you, or any account owner, such as adding or closing an account or service, be evidenced by a signed Account Change Card, Member Services Request, or other document",
+     "account_type": "POD and trust (in trust for) share and deposit accounts",
+     "page": "10",
+     "source_url": "https://www.truficu.org/assets/files/wByld359",
+     "form_number": "DXPS02-E",
+     "revision_date": "2021-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -9057,6 +10060,78 @@
      "revision_date": "2025-07-01",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-washington-trust-bank",
+   "institution": "Washington Trust Bank",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "Revocable trust or pay-on-death deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the death of all owners take, in equal shares without survivorship among them; a predeceased beneficiary takes nothing",
+     "quote": "Beneficiaries cannot withdraw unless: (1) all persons creating the account die, and (2) the beneficiary is then living. If two or more beneficiaries are named and survive the death of all persons creating the account, beneficiaries will own this account in equal shares, without right of survivorship.",
+     "account_type": "Revocable trust or pay-on-death deposit accounts",
+     "page": "2",
+     "source_url": "https://www.watrust.com/images/Disclosures/PersonalProductsDisclosure_%2012_1_12.pdf",
+     "form_number": "",
+     "revision_date": "2012-12",
+     "wayback_capture": "2013-01-29",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-webster-bank",
+   "institution": "Webster Bank, National Association",
+   "segment": "bank",
+   "account_group": "bank_pod",
+   "account_types": [
+    "POD deposit accounts"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "the last surviving owner's legal representative (estate)",
+     "quote": "If no designated beneficiary is living when the last surviving account owner dies, we are entitled to pay funds in the account to the legal representative of the last surviving account owner.",
+     "account_type": "POD deposit accounts",
+     "page": "9",
+     "source_url": "https://www.websterbank.com/wp-content/uploads/2023/08/deposit-account-agreement.pdf",
+     "form_number": "FN03106",
+     "revision_date": "2026-08-20",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "only beneficiaries living at the last owner's death take; by default surviving beneficiaries own in equal shares as joint tenants with right of survivorship",
+     "quote": "A designated beneficiary acquires the right to the account only if: (a) all account owners die, and (b) the beneficiary is then living. ... Upon the death of the last surviving account owner, we are entitled to pay funds in an account with a payable on death designation to the then-surviving designated beneficiaries",
+     "account_type": "POD deposit accounts",
+     "page": "9",
+     "source_url": "https://www.websterbank.com/wp-content/uploads/2023/08/deposit-account-agreement.pdf",
+     "form_number": "FN03106",
+     "revision_date": "2026-08-20",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "on the bank's forms (channel not specified); latest designation received controls",
+     "quote": "Changes in the designated beneficiaries must be made on such forms as we require. The most recent beneficiary designation we have received terminates, supersedes and replaces any prior payable on death designation for the specified account.",
+     "account_type": "POD deposit accounts",
+     "page": "9",
+     "source_url": "https://www.websterbank.com/wp-content/uploads/2023/08/deposit-account-agreement.pdf",
+     "form_number": "FN03106",
+     "revision_date": "2026-08-20",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -24144,6 +25219,30 @@
    }
   },
   {
+   "inst_id": "flcu-alive",
+   "institution": "Alive Credit Union",
+   "segment": "credit_union",
+   "account_group": "ira",
+   "account_types": [
+    "Traditional and Roth IRA"
+   ],
+   "florida": true,
+   "fields": {
+    "submission_method": {
+     "value": "yes",
+     "detail": "completed and signed credit union form (channel not specified)",
+     "quote": "Your beneficiary designation we have on file will remain in effect unless you change it by completing and signing the form that we have for this purpose.",
+     "account_type": "Traditional and Roth IRA",
+     "page": "1",
+     "source_url": "https://www.alivecu.coop/custom/fi/healthcarecu/fb/disclosure/IRA_Amendment.pdf",
+     "form_number": "",
+     "revision_date": "2014-10",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "cu-alliant",
    "institution": "Alliant Credit Union",
    "segment": "credit_union",
@@ -25073,6 +26172,114 @@
    }
   },
   {
+   "inst_id": "bank2-apple-bank",
+   "institution": "Apple Bank",
+   "segment": "bank",
+   "account_group": "ira",
+   "account_types": [
+    "Traditional, Roth and SIMPLE IRA"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_primary": {
+     "value": "yes",
+     "detail": "entities may be named; the spousal consent note refers to a trust beneficiary",
+     "quote": "I designate the persons or entities named above as my primary and/or ... contingent beneficiaries of this IRA ... Spousal consent should be considered if either the trust or the residence of",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "2",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "trust_contingent": {
+     "value": "yes",
+     "detail": "entities may be named in either tier",
+     "quote": "I designate the persons or entities named above as my primary and/or ... contingent beneficiaries of this IRA",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "2",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "the owner's estate",
+     "quote": "If no beneficiaries are named, my estate will be my beneficiary.",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "1",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "predeceased share goes pro rata to remaining beneficiaries; contingents take only if all primaries predecease; equal shares if no percentages",
+     "quote": "The interest of any beneficiary that predeceases me terminates completely, and the percentage share of any remaining beneficiaries will be increased on a pro rata basis. ... The balance in the account will be payable to these beneficiaries if all primary beneficiaries have predeceased the IRA owner.",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "1",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "spousal_consent": {
+     "value": "yes",
+     "detail": "spousal consent is advised when the owner or trust is in a community or marital property state and a married owner names someone other than or in addition to the spouse",
+     "quote": "Spousal consent should be considered if either the trust or the residence of ... I understand that if I choose to designate a primary ... beneficiary other than or in addition to my spouse, my spouse should",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "2",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "spousal_consent_mechanics": {
+     "value": "yes",
+     "detail": "spouse signs Part 4 with a witness signature; no notary",
+     "quote": "I hereby relinquish any interest that I may have in this IRA and consent to ... Signature of Spouse",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "2",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "max_beneficiaries": {
+     "value": "no",
+     "detail": "10 primary and 10 contingent lines; addendum pages allowed",
+     "quote": "Check here if additional beneficiaries are listed on an attached addendum.",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "2",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "deliver the form to Apple Bank Pension Services Department (250 West 23rd Street, New York); channel not specified",
+     "quote": "I understand that I may replace my beneficiary designations at any time by ... completing and delivering the proper form to the trustee or custodian",
+     "account_type": "Traditional, Roth and SIMPLE IRA",
+     "page": "2",
+     "source_url": "https://www.applebank.com/AppleBank/media/Documents/PDFs/IRA-Beneficiary-Designation-Form.pdf",
+     "form_number": "",
+     "revision_date": "2020-09",
+     "wayback_capture": "2021-12-02",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "bank-axos-bank",
    "institution": "Axos Bank",
    "segment": "bank",
@@ -25902,6 +27109,150 @@
    }
   },
   {
+   "inst_id": "bank2-capitol-federal-savings-bank",
+   "institution": "Capitol Federal Savings Bank",
+   "segment": "bank",
+   "account_group": "ira",
+   "account_types": [
+    "IRA"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_primary": {
+     "value": "yes",
+     "detail": "a trust may be named; the funds go to an inherited IRA in the trust's name and a spouse who is a trust beneficiary cannot roll them over",
+     "quote": "If a trust is named as a beneficiary of an IRA instead of the IRA holder's spouse and the IRA holder then passes away, the IRA funds will be transferred to an Inherited IRA under the name of the trust.",
+     "account_type": "IRA",
+     "page": "web page",
+     "source_url": "https://www.capfed.com/en/Personal/Savings/IRAs/IRA-Beneficiary-Designations",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2024-09-16",
+     "retrieved": "2026-09-26"
+    },
+    "per_capita_offered": {
+     "value": "yes",
+     "detail": "per capita (in CapFed's sense, survivors among the named beneficiaries) is the bank's payment basis, not an election",
+     "quote": "Capitol Federal pays IRA funds to the beneficiaries on a per capita basis.",
+     "account_type": "IRA",
+     "page": "web page",
+     "source_url": "https://www.capfed.com/en/Personal/Savings/IRAs/IRA-Beneficiary-Designations",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2024-09-16",
+     "retrieved": "2026-09-26"
+    },
+    "minors": {
+     "value": "yes",
+     "detail": "a minor may be named; a parent must be court-appointed conservator (no UTMA custodian option described)",
+     "quote": "If a minor is named as a beneficiary, they are not allowed to control the IRA funds. The parent will be required to go to probate court and be appointed as a conservator to manage the IRA on their behalf until the child reaches the age of majority.",
+     "account_type": "IRA",
+     "page": "web page",
+     "source_url": "https://www.capfed.com/en/Personal/Savings/IRAs/IRA-Beneficiary-Designations",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2024-09-16",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "a predeceased primary's share passes to the remaining named beneficiaries, not to that beneficiary's heirs",
+     "quote": "A per capita beneficiary designation specifies that if an IRA holder names multiple primary beneficiaries and one of the beneficiaries passes away, the funds will pass to the remaining named beneficiaries upon the IRA holder's death. The funds will not pass to the heirs of the deceased beneficiary.",
+     "account_type": "IRA",
+     "page": "web page",
+     "source_url": "https://www.capfed.com/en/Personal/Savings/IRAs/IRA-Beneficiary-Designations",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2024-09-16",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-centier-bank",
+   "institution": "Centier Bank",
+   "segment": "bank",
+   "account_group": "ira",
+   "account_types": [
+    "Safe Harbor IRA (Traditional, Roth, SIMPLE)"
+   ],
+   "florida": false,
+   "fields": {
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "owner's estate",
+     "quote": "If no beneficiaries are named, my estate will be my beneficiary.",
+     "account_type": "Safe Harbor IRA (Traditional, Roth, SIMPLE)",
+     "page": "1",
+     "source_url": "https://www.centier.com/docs/default-source/resources/safe-harbor/beneficiary-designation-or-change-form.pdf?sfvrsn=c4ecbdd1_1",
+     "form_number": "",
+     "revision_date": "2015-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "pro rata to remaining beneficiaries; contingents take if all primaries predecease",
+     "quote": "The interest of any beneficiary that predeceases me terminates completely, and the percentage share of any remaining beneficiaries will be increased on a pro rata basis.",
+     "account_type": "Safe Harbor IRA (Traditional, Roth, SIMPLE)",
+     "page": "1",
+     "source_url": "https://www.centier.com/docs/default-source/resources/safe-harbor/beneficiary-designation-or-change-form.pdf?sfvrsn=c4ecbdd1_1",
+     "form_number": "",
+     "revision_date": "2015-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "spousal_consent": {
+     "value": "yes",
+     "detail": "recommended (community or marital property state), not required",
+     "quote": "Spousal consent should be considered if either the trust or the residence of the IRA owner is located in a community or marital property state.",
+     "account_type": "Safe Harbor IRA (Traditional, Roth, SIMPLE)",
+     "page": "2",
+     "source_url": "https://www.centier.com/docs/default-source/resources/safe-harbor/beneficiary-designation-or-change-form.pdf?sfvrsn=c4ecbdd1_1",
+     "form_number": "",
+     "revision_date": "2015-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "spousal_consent_mechanics": {
+     "value": "yes",
+     "detail": "spouse signs and dates, with a witness signature line",
+     "quote": "I hereby relinquish any interest that I may have in this IRA and consent to the beneficiary designation indicated above.",
+     "account_type": "Safe Harbor IRA (Traditional, Roth, SIMPLE)",
+     "page": "2",
+     "source_url": "https://www.centier.com/docs/default-source/resources/safe-harbor/beneficiary-designation-or-change-form.pdf?sfvrsn=c4ecbdd1_1",
+     "form_number": "",
+     "revision_date": "2015-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "max_beneficiaries": {
+     "value": "no",
+     "detail": "5 lines per tier; addendums allowed",
+     "quote": "Check here if additional beneficiaries are listed on an attached addendum.",
+     "account_type": "Safe Harbor IRA (Traditional, Roth, SIMPLE)",
+     "page": "2",
+     "source_url": "https://www.centier.com/docs/default-source/resources/safe-harbor/beneficiary-designation-or-change-form.pdf?sfvrsn=c4ecbdd1_1",
+     "form_number": "",
+     "revision_date": "2015-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "deliver the form to the custodian (Centier Bank Safe Harbor IRA, Merrillville, Indiana)",
+     "quote": "I understand that I may replace my beneficiary designations at any time by completing and delivering the proper form to the trustee or custodian.",
+     "account_type": "Safe Harbor IRA (Traditional, Roth, SIMPLE)",
+     "page": "2",
+     "source_url": "https://www.centier.com/docs/default-source/resources/safe-harbor/beneficiary-designation-or-change-form.pdf?sfvrsn=c4ecbdd1_1",
+     "form_number": "",
+     "revision_date": "2015-04",
+     "wayback_capture": "",
+     "retrieved": "2026-09-26"
+    }
+   }
+  },
+  {
    "inst_id": "schwab",
    "institution": "Charles Schwab (incl. legacy TD Ameritrade accounts converted to Schwab)",
    "segment": "brokerage",
@@ -26116,6 +27467,126 @@
      "revision_date": "2026-03",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "bank2-comenity-capital-bank",
+   "institution": "Comenity Capital Bank",
+   "segment": "bank",
+   "account_group": "ira",
+   "account_types": [
+    "Traditional and Roth IRA (retirement savings and CDs)"
+   ],
+   "florida": false,
+   "fields": {
+    "trust_primary": {
+     "value": "yes",
+     "detail": "persons or entities may be named; the disclosure discusses see-through trusts as beneficiaries",
+     "quote": "You may designate one or more persons or entities as beneficiary ... trusts may also qualify as a designated beneficiary under the IRA",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "3",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "trust_contingent": {
+     "value": "yes",
+     "detail": "primary and contingent tiers exist; entities may be named in either (the beneficiary form itself is not saved)",
+     "quote": "If you have designated both primary and contingent",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "3",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "trust_docs_requested": {
+     "value": "no",
+     "detail": "the trustee of the trust determines see-through status; no trust paperwork goes to the custodian",
+     "quote": "No trust paperwork is required",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "6",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "see_through_certification": {
+     "value": "no",
+     "detail": "the trustee, not the custodian, determines see-through status; no documentation required",
+     "quote": "The trustee of the trust is ... responsible for determining whether the trust is a see-through ... No trust paperwork is required",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "6",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "estate_allowed": {
+     "value": "yes",
+     "detail": "the disclosure treats a named estate as a non-designated beneficiary; the estate is also the default",
+     "quote": "trusts may also qualify as a designated beneficiary under the IRA ... your estate, a charity, or a trust that is not a see-through",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "6",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "default_beneficiary": {
+     "value": "yes",
+     "detail": "owner's estate if no designation or all primary and contingent beneficiaries predecease",
+     "quote": "If you do not designate a beneficiary or if all of your primary ... and contingent beneficiaries predecease you, your estate will be",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "3",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "successor_beneficiary": {
+     "value": "yes",
+     "detail": "at the custodian's option and if state law permits; otherwise the original beneficiary's estate is successor",
+     "quote": "We may allow, if permitted by state law, an original IRA beneficiary ... beneficiaries for the inherited IRA. This designation can only be ... successor beneficiary, his or her estate will be the successor",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "3",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "lapse_rule": {
+     "value": "yes",
+     "detail": "contingents take if no primary survives; the treatment of one predeceased primary among several is not stated",
+     "quote": "beneficiaries and no primary beneficiary survives you, the ... contingent beneficiaries will acquire the designated share of your",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "3",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
+    },
+    "submission_method": {
+     "value": "yes",
+     "detail": "filed with the custodian during the owner's lifetime (channel not stated)",
+     "quote": "and it will only be effective when it is filed ... with us during your lifetime",
+     "account_type": "Traditional and Roth IRA (retirement savings and CDs)",
+     "page": "3",
+     "source_url": "https://www.breadfinancial.com/content/dam/breadfinancial/us/en/documents/forms-and-documents/Mantl_IRA%20Custodial%20Agreement%20Disclosure_11.24.pdf",
+     "form_number": "2400R-C",
+     "revision_date": "2017-04",
+     "wayback_capture": "2026-02-17",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -30220,6 +31691,30 @@
      "revision_date": "2012-01",
      "wayback_capture": "",
      "retrieved": "2026-09-24"
+    }
+   }
+  },
+  {
+   "inst_id": "flcu-my-pensacola",
+   "institution": "My Pensacola Federal Credit Union",
+   "segment": "credit_union",
+   "account_group": "ira",
+   "account_types": [
+    "Traditional and Roth IRA"
+   ],
+   "florida": true,
+   "fields": {
+    "max_beneficiaries": {
+     "value": "no",
+     "detail": "2 lines on the online form; more by contacting the credit union",
+     "quote": "Beneficiary #2 (optional) ... Please contact the Credit Union to add additional Beneficiaries.",
+     "account_type": "Traditional and Roth IRA",
+     "page": "web page",
+     "source_url": "https://www.mypensacolacu.com/Save-and-Spend/Savings-Accounts/IRAs/IRA-Form",
+     "form_number": "",
+     "revision_date": "",
+     "wayback_capture": "2026-03-06",
+     "retrieved": "2026-09-26"
     }
    }
   },
@@ -42095,6 +43590,42 @@
  ],
  "no_public_form": [
   {
+   "inst_id": "bank2-1st-source-bank",
+   "institution": "1st Source Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-1st-street",
+   "institution": "1st Street Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-adventhealth",
+   "institution": "AdventHealth Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-amalgamated-bank",
+   "institution": "Amalgamated Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-amarillo-national-bank",
+   "institution": "Amarillo National Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-american-savings-bank",
+   "institution": "American Savings Bank, National Association",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "bank-ameris-bank",
    "institution": "Ameris Bank",
    "segment": "bank",
@@ -42125,8 +43656,26 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-b1bank",
+   "institution": "b1BANK",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "bank-banc-of-california",
    "institution": "Banc of California",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-bancfirst",
+   "institution": "BancFirst",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-banco-bilbao-vizcaya-s-a",
+   "institution": "Banco Bilbao Vizcaya Argentaria, S.A.",
    "segment": "bank",
    "florida": false
   },
@@ -42141,6 +43690,18 @@
    "institution": "Banesco USA",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-bank-hapoalim-b-m",
+   "institution": "Bank Hapoalim B.M.",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-bank-of-baroda",
+   "institution": "Bank of Baroda",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-bank-of-belle-glade",
@@ -42161,8 +43722,20 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-bank-of-colorado",
+   "institution": "Bank of Colorado",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "bank-bank-of-hawaii",
    "institution": "Bank of Hawaii",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-bank-of-hope",
+   "institution": "Bank of Hope",
    "segment": "bank",
    "florida": false
   },
@@ -42171,6 +43744,12 @@
    "institution": "Bank of Pensacola",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-bankers-trust-company",
+   "institution": "Bankers Trust Company",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-bankflorida",
@@ -42185,6 +43764,18 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-bankplus",
+   "institution": "BankPlus",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-baptist-health-south-florida",
+   "institution": "Baptist Health South Florida Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "bank-barclays-bank-delaware",
    "institution": "Barclays Bank Delaware",
    "segment": "bank",
@@ -42193,6 +43784,24 @@
   {
    "inst_id": "bank-beacon-bank-and-trust",
    "institution": "Beacon Bank and Trust",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-bell-bank",
+   "institution": "Bell Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-blue-coast",
+   "institution": "Blue Coast Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-bmw-bank-of-north-america",
+   "institution": "BMW Bank of North America",
    "segment": "bank",
    "florida": false
   },
@@ -42211,6 +43820,30 @@
   {
    "inst_id": "flcu-brightstar",
    "institution": "BrightStar Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-broward-healthcare",
+   "institution": "Broward Healthcare Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-burke-and-herbert-bank-and-trust-company",
+   "institution": "Burke & Herbert Bank & Trust Company",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-busey-bank",
+   "institution": "Busey Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-calhoun-liberty",
+   "institution": "Calhoun Liberty Credit Union",
    "segment": "credit_union",
    "florida": true
   },
@@ -42251,6 +43884,12 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-citizens-business-bank",
+   "institution": "Citizens Business Bank, National Association",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "bank-city-national-bank-of-florida",
    "institution": "City National Bank of Florida",
    "segment": "bank",
@@ -42260,6 +43899,18 @@
    "inst_id": "flbank-climate-first-bank",
    "institution": "Climate First Bank",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-cnb-bank",
+   "institution": "CNB Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-coastline",
+   "institution": "Coastline Federal Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42287,10 +43938,46 @@
    "florida": true
   },
   {
+   "inst_id": "flcu-community-south",
+   "institution": "Community South Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-compass-financial",
+   "institution": "Compass Financial Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-connect",
+   "institution": "Connect Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-connectone-bank",
+   "institution": "ConnectOne Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-container-mutual",
+   "institution": "Container Mutual Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-crews-bank-and-trust",
    "institution": "Crews Bank & Trust",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-cross-river-bank",
+   "institution": "Cross River Bank",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-cypress-bank-and-trust",
@@ -42317,10 +44004,22 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-dime-commercial-bank",
+   "institution": "Dime Commercial Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-dlp-bank",
    "institution": "DLP Bank",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-eaglebank",
+   "institution": "EagleBank",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "bank-eastern-bank",
@@ -42359,16 +44058,70 @@
    "florida": true
   },
   {
+   "inst_id": "flcu-emerald-coast",
+   "institution": "Emerald Coast Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-enterprise-bank-and-trust",
+   "institution": "Enterprise Bank & Trust",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-equity-bank",
+   "institution": "Equity Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-everglades",
+   "institution": "Everglades Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-evermore-bank",
    "institution": "Evermore Bank",
    "segment": "bank",
    "florida": true
   },
   {
+   "inst_id": "bank2-farmers-and-merchants-bank-of-long-beach",
+   "institution": "Farmers and Merchants Bank of Long Beach",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-farmers",
+   "institution": "Farmers Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-financial-educators",
+   "institution": "Financial Educators Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-first-american-trust-fsb",
+   "institution": "First American Trust, FSB",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-first-bank",
    "institution": "First Bank",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-first-bank",
+   "institution": "First Bank",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-first-colony-bank-of-florida",
@@ -42395,6 +44148,12 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-first-financial-bank",
+   "institution": "First Financial Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flcu-first-florida",
    "institution": "First Florida Credit Union",
    "segment": "credit_union",
@@ -42409,6 +44168,18 @@
   {
    "inst_id": "bank-first-interstate-bank",
    "institution": "First Interstate Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-first-merchants-bank",
+   "institution": "First Merchants Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-first-mid-bank-and-trust",
+   "institution": "First Mid Bank & Trust, National Association",
    "segment": "bank",
    "florida": false
   },
@@ -42431,10 +44202,22 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-first-security-bank",
+   "institution": "First Security Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-first-state-bank",
    "institution": "First State Bank",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-first-united-bank-and-trust-company",
+   "institution": "First United Bank and Trust Company",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-flagship-bank",
@@ -42449,9 +44232,21 @@
    "florida": false
   },
   {
+   "inst_id": "flcu-florida-a-m-university",
+   "institution": "Florida A&M University Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-florida-capital-bank",
    "institution": "Florida Capital Bank, National Association",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-florida-customs",
+   "institution": "Florida Customs Federal Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42464,6 +44259,18 @@
    "inst_id": "flbank-gala-bank",
    "institution": "Gala Bank",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-german-american-bank",
+   "institution": "German American Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-gold-coast",
+   "institution": "Gold Coast Federal Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42485,6 +44292,12 @@
    "florida": true
   },
   {
+   "inst_id": "flcu-guardians",
+   "institution": "Guardians Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-gulf-atlantic-bank",
    "institution": "Gulf Atlantic Bank",
    "segment": "bank",
@@ -42500,6 +44313,30 @@
    "inst_id": "flbank-gulfside-bank",
    "institution": "Gulfside Bank",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-harvesters",
+   "institution": "Harvesters Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-hello",
+   "institution": "Hello Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-heritage-bank",
+   "institution": "Heritage Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-hialeah-municipal-employees",
+   "institution": "Hialeah Municipal Employees Federal Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42527,10 +44364,46 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-israel-discount-bank-of-new-york",
+   "institution": "Israel Discount Bank of New York",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-jackson-county-1st",
+   "institution": "Jackson County 1st Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-jefferson-county-teachers",
+   "institution": "Jefferson County Teachers Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-jetstream",
+   "institution": "Jetstream Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-lafayette-state-bank",
    "institution": "Lafayette State Bank",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-lake-city-bank",
+   "institution": "Lake City Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-lake-forest-bank-and-trust-company",
+   "institution": "Lake Forest Bank & Trust Company, National Association",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "cu-lmcu",
@@ -42539,15 +44412,45 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-liberty-bank",
+   "institution": "Liberty Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-live-oak-banking-company",
+   "institution": "Live Oak Banking Company",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-local-606-electrical-workers",
+   "institution": "Local 606 Electrical Workers Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-locality-bank",
    "institution": "Locality Bank",
    "segment": "bank",
    "florida": true
   },
   {
+   "inst_id": "flcu-loyalty",
+   "institution": "Loyalty Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-madison-county-community-bank",
    "institution": "Madison County Community Bank",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-madison-education-assoc",
+   "institution": "Madison Education Association Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42560,6 +44463,42 @@
    "inst_id": "flbank-marine-bank-and-trust-company",
    "institution": "Marine Bank & Trust Company",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-memorial-employees-financial",
+   "institution": "Memorial Employees Financial Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-merchants-bank-of-indiana",
+   "institution": "Merchants Bank of Indiana",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-merrick-bank",
+   "institution": "Merrick Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-metro-north",
+   "institution": "Metro North Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-miami",
+   "institution": "Miami Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-monroe-county-teachers",
+   "institution": "Monroe County Teachers Federal Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42587,10 +44526,52 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-nbh-bank",
+   "institution": "NBH Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-nbt-bank",
+   "institution": "NBT Bank, National Association",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-needham-bank",
+   "institution": "Needham Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-nexbank",
+   "institution": "NexBank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-nicolet-national-bank",
+   "institution": "Nicolet National Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-northwest-bank",
+   "institution": "Northwest Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "northwestern-mutual",
    "institution": "Northwestern Mutual Investment Services",
    "segment": "brokerage",
    "florida": false
+  },
+  {
+   "inst_id": "flcu-ocala-community",
+   "institution": "Ocala Community Credit Union",
+   "segment": "credit_union",
+   "florida": true
   },
   {
    "inst_id": "flbank-ocean-bank",
@@ -42603,6 +44584,12 @@
    "institution": "OceanFirst Bank, National Association",
    "segment": "bank",
    "florida": false
+  },
+  {
+   "inst_id": "flcu-okaloosa-county-teachers",
+   "institution": "Okaloosa County Teachers Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
   },
   {
    "inst_id": "oneamerica",
@@ -42623,6 +44610,24 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-oriental-bank",
+   "institution": "Oriental Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-origin-bank",
+   "institution": "Origin Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-orlando",
+   "institution": "Orlando Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "osaic",
    "institution": "Osaic (formerly Advisor Group)",
    "segment": "brokerage",
@@ -42635,15 +44640,39 @@
    "florida": true
   },
   {
+   "inst_id": "flcu-panhandle",
+   "institution": "Panhandle Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-paradise-bank",
    "institution": "Paradise Bank",
    "segment": "bank",
    "florida": true
   },
   {
+   "inst_id": "bank2-peapack-private-bank-and-trust",
+   "institution": "Peapack Private Bank & Trust",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-peoples-bank",
+   "institution": "Peoples Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-peoples-bank-of-graceville",
    "institution": "Peoples Bank of Graceville",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-pinellas",
+   "institution": "Pinellas Federal Credit Union",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42653,10 +44682,34 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-pinnacle-bank",
+   "institution": "Pinnacle Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-pnb-community-bank",
    "institution": "PNB Community Bank",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "flcu-pompano-beach-city-emp",
+   "institution": "Pompano Beach City Employees Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-poppy-bank",
+   "institution": "Poppy Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-popular-bank",
+   "institution": "Popular Bank",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-portrait-bank",
@@ -42671,9 +44724,39 @@
    "florida": true
   },
   {
+   "inst_id": "flcu-powernet",
+   "institution": "PowerNet Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-preferred-bank",
+   "institution": "Preferred Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-prime-meridian-bank",
    "institution": "Prime Meridian Bank",
    "segment": "bank",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-principal-bank",
+   "institution": "Principal Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-priority",
+   "institution": "Priority Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-priorityone-of-florida",
+   "institution": "PriorityOne Credit Union of Florida",
+   "segment": "credit_union",
    "florida": true
   },
   {
@@ -42689,8 +44772,20 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-rbc-bank-georgia",
+   "institution": "RBC Bank, (Georgia) National Association",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "bank-renasant-bank",
    "institution": "Renasant Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-safra-national-bank-of-new-york",
+   "institution": "Safra National Bank of New York",
    "segment": "bank",
    "florida": false
   },
@@ -42707,14 +44802,68 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-servisfirst-bank",
+   "institution": "ServisFirst Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-shaw-ross-employees",
+   "institution": "Shaw-Ross Employees Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "bank-sofi-bank",
    "institution": "SoFi Bank, National Association",
    "segment": "bank",
    "florida": false
   },
   {
+   "inst_id": "flcu-south-atlantic",
+   "institution": "South Atlantic Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-southernmost",
+   "institution": "Southernmost Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-standard-chartered-bank-plc",
+   "institution": "STANDARD CHARTERED BANK, PLC",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-state-bank-of-india",
+   "institution": "State Bank of India",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-stellar-bank",
+   "institution": "Stellar Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "bank-stifel-bank-and-trust",
    "institution": "Stifel Bank and Trust",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-stock-yards-bank-and-trust-company",
+   "institution": "Stock Yards Bank & Trust Company",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-sunflower-bank",
+   "institution": "Sunflower Bank, National Association",
    "segment": "bank",
    "florida": false
   },
@@ -42737,10 +44886,22 @@
    "florida": true
   },
   {
+   "inst_id": "flcu-suwannee-river",
+   "institution": "Suwannee River Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "ins-symetra",
    "institution": "Symetra Life Insurance Company",
    "segment": "insurer",
    "florida": false
+  },
+  {
+   "inst_id": "flcu-tampa-postal",
+   "institution": "Tampa Postal Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
   },
   {
    "inst_id": "flbank-tcm-bank",
@@ -42773,10 +44934,22 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-the-bancorp-bank",
+   "institution": "The Bancorp Bank, National Association",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-the-bank-of-tampa",
    "institution": "The Bank of Tampa",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "bank2-the-central-trust-bank",
+   "institution": "The Central Trust Bank",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "flbank-the-first-national-bank-of-mount-dora",
@@ -42785,10 +44958,28 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-the-park-national-bank",
+   "institution": "The Park National Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flbank-the-warrington-bank",
    "institution": "The Warrington Bank",
    "segment": "bank",
    "florida": true
+  },
+  {
+   "inst_id": "flcu-t-m-h",
+   "institution": "TMH Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-tompkins-bank-and-trust",
+   "institution": "Tompkins Bank & Trust",
+   "segment": "bank",
+   "florida": false
   },
   {
    "inst_id": "bank-townebank",
@@ -42797,8 +44988,26 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-toyota-financial-savings-bank",
+   "institution": "Toyota Financial Savings Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-transport",
+   "institution": "Transport Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "bank-tristate-capital-bank",
    "institution": "TriState Capital Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-trustmark-bank",
+   "institution": "Trustmark Bank",
    "segment": "bank",
    "florida": false
   },
@@ -42827,6 +45036,30 @@
    "florida": false
   },
   {
+   "inst_id": "bank2-union-bank-and-trust-company",
+   "institution": "Union Bank and Trust Company",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "flcu-unity-of-eatonville",
+   "institution": "Unity of Eatonville Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "flcu-university",
+   "institution": "University Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
+   "inst_id": "bank2-univest-bank-and-trust-co",
+   "institution": "Univest Bank and Trust Co.",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "flcu-velocity-community",
    "institution": "Velocity Community Credit Union",
    "segment": "credit_union",
@@ -42845,6 +45078,12 @@
    "florida": false
   },
   {
+   "inst_id": "flcu-walton-county-teachers",
+   "institution": "Walton County Teachers Federal Credit Union",
+   "segment": "credit_union",
+   "florida": true
+  },
+  {
    "inst_id": "flbank-waterfall-bank",
    "institution": "Waterfall Bank",
    "segment": "bank",
@@ -42857,6 +45096,12 @@
    "florida": true
   },
   {
+   "inst_id": "bank2-wex-bank",
+   "institution": "WEX Bank",
+   "segment": "bank",
+   "florida": false
+  },
+  {
    "inst_id": "hsa-wex",
    "institution": "WEX Health HSA",
    "segment": "hsa",
@@ -42865,6 +45110,18 @@
   {
    "inst_id": "bank-wilmington-savings-fund-society",
    "institution": "Wilmington Savings Fund Society, FSB",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-wintrust-bank",
+   "institution": "Wintrust Bank, National Association",
+   "segment": "bank",
+   "florida": false
+  },
+  {
+   "inst_id": "bank2-woodforest-national-bank",
+   "institution": "Woodforest National Bank",
    "segment": "bank",
    "florida": false
   }

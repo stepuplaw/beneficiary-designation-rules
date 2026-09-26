@@ -3,8 +3,8 @@
  "publisher": "StepUp Law (Klagge Law, PLLC)",
  "license": "CC BY 4.0",
  "retrieved_from": "2026-09-24",
- "retrieved_to": "2026-09-25",
- "institutions_checked": 379,
+ "retrieved_to": "2026-09-26",
+ "institutions_checked": 546,
  "files": {
   "beneficiary_rules.csv / .json": "Beneficiary designation rules, one row per institution and account group.",
   "trust_accounts.csv / .json": "Rules for an account owned by or retitled to a trust, one row per institution and account group."
