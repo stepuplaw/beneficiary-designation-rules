@@ -16,4 +16,4 @@ Live pages: https://stepuplaw.com/data/beneficiary-designation-rules/ and https:
 
 ## License and citation
 
-CC BY 4.0. Cite as: Klagge, Kevin D., Beneficiary Designation and Trust Account Rules at US Financial Institutions (2026), StepUpLaw, https://stepuplaw.com/data/beneficiary-designation-rules/.
+CC BY 4.0. DOI 10.5281/zenodo.22983148. Cite as: Klagge, Kevin D., Beneficiary Designation and Trust Account Rules at US Financial Institutions (2026), StepUpLaw, https://stepuplaw.com/data/beneficiary-designation-rules/ (DOI 10.5281/zenodo.22983148).
